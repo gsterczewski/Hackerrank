@@ -1,2 +1,2 @@
-./PHP/vendor/
-./PHP/.phpunit.result.cache
+/PHP/vendor/
+/PHP/.phpunit.result.cache
