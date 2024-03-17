@@ -1,0 +1,17 @@
+{
+  "name": "hackerrank/php",
+  "require": {
+    "phpunit/phpunit": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hackerrank\\PHP\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Grzegorz Sterczewski",
+      "email": "sterczewski.dev@protonmail.ch"
+    }
+  ]
+}
